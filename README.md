@@ -10,7 +10,6 @@ I'm currently working at [![Playmoweb](https://img.shields.io/badge/-Playmoweb-2
 I love continuously learning & improving my skills
 ```
 
-- :mailbox: Reach me on [![Twitter](https://img.shields.io/badge/-Twitter-15202b?logo=twitter)](https://twitter.com/c4software)
-
+I'm available on [![Twitter](https://img.shields.io/badge/-Twitter-15202b?logo=twitter)](https://twitter.com/c4software) 24/24 7/7 👌
 
 Ah and BTW I'm a :keyboard: lover ♥️
